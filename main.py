@@ -10,6 +10,7 @@ luas = phi * r * r
 print(f'Luas lingkaran : {str(luas)} cm²')
 
 print()
+print()
 
 #TODO: Tugas 2
 # Buatlah Program Python Mencari Luas Segitiga
